@@ -6,7 +6,16 @@ The aim of this project is to create a TODO SPA. The frontend service uses React
 
 The layout of the app refereces some regular TODO application layouts and modified with bootstrap.
 
-The frontend service is connected by RESTful APIs with the backend. You can find out more instrcution about the backend server [here](https://github.com/ads1029/Forecast-backend):
+The frontend service is connected by RESTful APIs with the backend. You can find out more instrcution about the backend server [here](https://github.com/ads1029/Forecast-backend)
+
+
+![image](https://user-images.githubusercontent.com/30839443/122426917-fd522400-cfd3-11eb-8b8c-cb3941210a18.png)
+![image](https://user-images.githubusercontent.com/30839443/122426942-02af6e80-cfd4-11eb-94a3-e91c2a8bb3d8.png)
+
+
+# Main Page
+
+
 
 ## Available Scripts
 
